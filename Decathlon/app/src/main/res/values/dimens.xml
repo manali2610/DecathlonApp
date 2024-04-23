@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Generic -->
+    <dimen name="minimum_touchable_height">48dp</dimen>
+
+    <!-- Splash Activity -->
+    <dimen name="splash_activity_text_size">32sp</dimen>
+
+    <!-- Product Fragment -->
+    <dimen name="product_search_bar_top_margin">10dp</dimen>
+    <dimen name="product_search_bar_horizontal_margin">8dp</dimen>
+    <dimen name="sort_layout_top_margin">10dp</dimen>
+    <dimen name="sort_buttons_horizontal_margin">5dp</dimen>
+    <dimen name="product_list_vertical_margin">10dp</dimen>
+    <dimen name="product_image_start_margin">15dp</dimen>
+    <dimen name="product_layout_horizontal_margin">20dp</dimen>
+    <dimen name="product_layout_padding_vertical">5dp</dimen>
+    <dimen name="product_details_padding_vertical">5dp</dimen>
+    <dimen name="product_price_end_margin">15dp</dimen>
+    <dimen name="product_list_title_text_size">21sp</dimen>
+    <dimen name="product_list_title_top_margin">20dp</dimen>
+    <dimen name="product_details_text_size">18sp</dimen>
+</resources>

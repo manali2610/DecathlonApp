@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Decathlon</string>
+
+    <!-- Splash Activity-->
+    <string name="splash_activity_text">Welcome to Decathlon!!</string>
+
+    <!-- Product Fragment -->
+    <string name="product_search_bar_hint">Search</string>
+    <string name="sort_prices_button_text">Sort by Prices</string>
+    <string name="sort_names_button_text">Sort by Names</string>
+    <string name="product_list_title">PRODUCTS</string>
+    <string name="product_brand_text">Brand: %1$s</string>
+</resources>
